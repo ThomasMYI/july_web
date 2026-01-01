@@ -10,10 +10,10 @@ ul {
 li {
   list-style: none;
 }
-a {
+.nav_menu {
   display: block;
   text-decoration: none;
-  margin: 35px;
+  margin-right: 35px;
 }
 .top_content {
             font-family: 'Georgia', 'Yu Mincho', sans-serif;
