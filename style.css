@@ -14,6 +14,9 @@ a {
   display: inline;
   text-decoration: none;
 }
+.sitetitle{
+  font-family: 'Yu Mincho', 'ヒラギノ明朝 Pro W3', serif;
+}
 .navigator{
   display: flex;
 }
@@ -22,5 +25,5 @@ a {
   margin-right: 35px;
 }
 .top_content {
-  font-family: 'Georgia', 'Yu Mincho', sans-serif;
+  font-family: 'Georgia', 'Yu Mincho', serif;
 }
