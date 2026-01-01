@@ -9,6 +9,10 @@ ul {
 }
 li {
   list-style: none;
+  margin-right: 35px;
+}
+a {
+  text-decoration: none;
 }
 .top_content {
             font-family: 'Georgia', 'Yu Mincho', sans-serif;
