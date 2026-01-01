@@ -9,11 +9,11 @@ ul {
 }
 li {
   list-style: none;
-  display: block;
-  margin-right: 35px;
 }
 a {
+  display: block;
   text-decoration: none;
+  margin: 35px;
 }
 .top_content {
             font-family: 'Georgia', 'Yu Mincho', sans-serif;
