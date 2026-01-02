@@ -17,6 +17,8 @@ a {
 .sitename{
   display: inline-block;
   font-family: 'Yu Mincho', 'ヒラギノ明朝 Pro W3', serif;
+}
+.title{
   color: black;
 }
 .navigator{
