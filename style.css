@@ -21,6 +21,9 @@ a {
 .title{
   color: black;
 }
+.title:visited{
+  color: black
+}
 .navigator{
   display: flex;
 }
