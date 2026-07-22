@@ -10,7 +10,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   font-family: 'M PLUS 1', 'Yu Mincho', serif;
-  font-weight: 200;
+  font-weight: 300;
 }
 ul {
   display: flex;
@@ -47,6 +47,7 @@ h1 {
 }
 .top_content {
   font-family: 'Georgia', 'Yu Mincho', serif;
+　width: 100%;
 }
 .top_headline {
   display: inline;
