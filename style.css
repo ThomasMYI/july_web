@@ -63,3 +63,6 @@ h1 {
 .works_outline {
   display: flex;
 }
+.works_outline_text {
+  display: blok;
+}
