@@ -60,3 +60,6 @@ h1 {
 .topic_content {
   font-family: 'Yu Mincho', 'ヒラギノ明朝 Pro W3', serif;
 }
+.works_outline {
+  display: flex;
+}
